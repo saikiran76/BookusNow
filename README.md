@@ -10,13 +10,13 @@ This is a Frontend Task @GyanGrove. This is a Event website that shows upcoming 
 ![alt text](image-1.png)
 
 ## Technical Features
--- Redux for state management (for highly optimized data management)
--- Lazy Loading of components
--- Responsive design
--- Modular code
--- API data fetching
--- Infinite scroll for Upcoming events
--- Display of Loading state while data being fetched
+a) Redux for state management (for highly optimized data management)
+b) Lazy Loading of components
+c) Responsive design
+d) Modular code
+e) API data fetching
+f) Infinite scroll for Upcoming events
+g) Display of Loading state while data being fetched
 
 ## Local setup
 1) Clone the repository:
@@ -35,13 +35,13 @@ This is a Frontend Task @GyanGrove. This is a Event website that shows upcoming 
     Once the development server is running, open your web browser and navigate to `http://localhost:8080` (or a different port if specified) to access the React application.
 
 ## Design and Technical Decisions
---- The UI is designed in a way that it can be viewed on both desktop and mobile devices, ensuring maximum user accessibility. This responsiveness
---- The overall design of this app is a single page application with ReactJS as the main library, along with Redux for managing global states
---- Lazy Loading is used to optimize the rendering and for reducing size of JS bundles (only render when required)
---- Loading states are used to stay put the user for a while instead of Blanks
---- The UI has been designed keeping in mind accessibility standards, color contrasts etc.
---- Recommended events are scrollable
---- Upcoming events are Infinite scrollable
---- For optimization in state management, Redux is used primarily
+a) The UI is designed in a way that it can be viewed on both desktop and mobile devices, ensuring maximum user accessibility. This responsiveness
+b) The overall design of this app is a single page application with ReactJS as the main library, along with Redux for managing global states
+c) Lazy Loading is used to optimize the rendering and for reducing size of JS bundles (only render when required)
+d) Loading states are used to stay put the user for a while instead of Blanks
+e) The UI has been designed keeping in mind accessibility standards, color contrasts etc.
+f) Recommended events are scrollable
+g) Upcoming events are Infinite scrollable
+h) For optimization in state management, Redux is used primarily
 
 
