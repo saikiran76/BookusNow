@@ -7,8 +7,8 @@ const Banner = () =>{
             <div className="tag relative flex flex-col justify-center mx-10 md:mx-16 gap-5 items-center">
                 <h1 className="text-3xl md:text-6xl font-bold md:font-semibold
                     text-white bottom-[480px] md:bottom-[520px] absolute font-inter">Discover Exciting Events <span className="hidden md:inline">Happening</span></h1>
-                <h1 className="text-3xl md:text-6xl font-semibold absolute bottom-[420px] md:bottom-[430px] inline md:block text-white font-inter"><span className="inline md:hidden">Happening</span>Near You - <span className="hidden md:inline">Stay Tune For Updates!</span> </h1>
-                <h1 className="text-3xl font-semibold absolute md:hidden bottom-[350px]">Stay Tune For Updates!</h1>
+                <h1 className="text-3xl md:text-6xl font-semibold absolute bottom-[420px] md:bottom-[430px] inline md:block text-white font-inter"><span className="inline md:hidden">Happening </span>Near You - <span className="hidden md:inline text-white">Stay Tune For Updates!</span> </h1>
+                <h1 className="text-3xl font-semibold absolute md:hidden bottom-[360px] text-white font-inter">Stay Tune For Updates!</h1>
                 <p className="absolute bottom-[250px] md:bottom-[350px] text-sm text-white mx-10 md:mx-40 font-bold font-inter">Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer</p>
             </div>
         </div>
