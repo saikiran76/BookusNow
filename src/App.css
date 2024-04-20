@@ -8,6 +8,11 @@
     object-fit: cover;
 }
 
+.logo{
+  color:#CF2D2D;
+}
+
+
 @layer utilities {
     /* Hide scrollbar for Chrome, Safari and Opera */
     .no-scrollbar {

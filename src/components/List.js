@@ -36,7 +36,7 @@ const Recs = () => {
     console.log("Recommendations:", recommendations);
 
     return (
-        <div className="px-6 overflow-hidden">
+        <div className="px-6 overflow-hidden font-inter">
             <div className="flex overflow-x-scroll no-scrollbar">
                 <div className="flex">
                 {recommendations.map((item, ind) => (

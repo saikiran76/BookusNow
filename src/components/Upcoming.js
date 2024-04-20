@@ -56,8 +56,8 @@ const Upcoming = () => {
               </div>)}
       endMessage={<p>No more data to load.</p>}
     >
-          <div className="mt-8">
-              <div className="ml-20"><Navigate heading="Upcoming events" /></div>
+          <div className="mt-8 font-inter">
+              <div className="ml-20 text-text"><Navigate heading="Upcoming events" /></div>
               <div className="flex flex-wrap gap-1 mx-10 rounded-lg">
                   {
                       upcoming.map((item, ind) => (

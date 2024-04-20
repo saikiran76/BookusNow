@@ -6,9 +6,9 @@ import { FaUserAlt } from "react-icons/fa";
 
 const Header = () => {
     return(
-        <div className="parent shadow-lg flex justify-between h-16">
+        <div className="parent shadow-lg flex justify-between h-16 font-inter">
             <div className="part-1 w-[50%] md:w-[25%]">
-                <h1 className="text-red-700 font-semibold font-inter text-lg md:text-2xl text-center pt-2 md:pt-4 mr-8 md:mr-0">BookUsNow</h1>
+                <h1 className="logo font-semibold font-inter text-lg md:text-2xl text-center pt-2 md:pt-4 mr-8 md:mr-0">BookUsNow</h1>
                 <div className="flex md:hidden ml-9">
                     <FaLocationDot/>
                     <p className="text-sm text-gray-500 ml-1">Mumbai, India</p>

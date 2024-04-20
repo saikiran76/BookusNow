@@ -19,10 +19,10 @@ const Card = ({eventName, date, weather, distanceKm, imgUrl, city}) =>{
     // console.log(image);
     
     return(
-        <div className="rounded-md w-full md:w-[25%] mx-10 my-5 flex flex-col border-gray-400 border-l border-r border-t border-b">
+        <div className="rounded-md w-full md:w-[25%] mx-10 my-5 flex flex-col border-gray-400 border-l border-r border-t border-b font-inter">
             <div className="relative">
                 <img className="rounded-lg object-cover w-full h-full" src={extractImageId(imgUrl)} alt="Event"/>
-                <p className="absolute text-gray-700 bg-gray-300 bg-opacity-50 bottom-4 md:bottom-3 left-4 md:left-3 w-[91%] rounded-bl-lg rounded-br-lg px-2 py-1">{formattedDate}</p>
+                <p className="absolute text-gray-400 bg-opacity-50 bottom-4 md:bottom-3 left-4 md:left-3 w-[91%] rounded-bl-lg rounded-br-lg px-2 py-1">{formattedDate}</p>
             </div>
             <p className="text-lg font-semibold px-3 pt-2">{eventName}</p>
             <div className="flex items-center px-2">
