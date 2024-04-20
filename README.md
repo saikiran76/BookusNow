@@ -10,13 +10,13 @@ This is a Frontend Task @GyanGrove. This is a Event website that shows upcoming 
 ![alt text](image-1.png)
 
 ## Technical Features
---- Redux for state management (for highly optimized data management)
---- Lazy Loading of components
---- Responsive design
---- Modular code
---- API data fetching
---- Infinite scroll for Upcoming events
---- Display of Loading state while data being fetched
+-- Redux for state management (for highly optimized data management)
+-- Lazy Loading of components
+-- Responsive design
+-- Modular code
+-- API data fetching
+-- Infinite scroll for Upcoming events
+-- Display of Loading state while data being fetched
 
 ## Local setup
 1) Clone the repository:
