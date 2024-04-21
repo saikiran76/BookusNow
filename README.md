@@ -7,8 +7,8 @@ This is a Frontend Task @GyanGrove. This is a Event website that shows upcoming 
 3) Used Redux for effective and optimized state management
 4) Used tailwind for faster build process and advantageous styling that it provides
 
-
-![image](https://github.com/saikiran76/BookusNow/assets/80874246/aeb346bf-17ad-4c93-8be6-c2b0a2545a8b)
+![image](https://github.com/saikiran76/BookusNow/assets/80874246/e0a41163-2faa-44a6-9dae-3f0df23bbc5b)
+![image](https://github.com/saikiran76/BookusNow/assets/80874246/be5450bf-a66d-4da9-b731-1cff8dbc3258)
 ![image](https://github.com/saikiran76/BookusNow/assets/80874246/753619d0-54da-4e69-9eba-62c156412066)
 
 
