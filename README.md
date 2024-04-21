@@ -1,4 +1,4 @@
-![image](https://github.com/saikiran76/BookusNow/assets/80874246/79c0c96e-3f47-4034-ae94-9ff4ea95ec65)## Project Overview
+## Project Overview
 This is a Frontend Task @GyanGrove. This is a Event website that shows upcoming and recommended events. This is mobile responsive. And the events are fetched from the given API.
 
 ## Tech stack
