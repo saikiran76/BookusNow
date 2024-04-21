@@ -1,5 +1,16 @@
-## Project Overview
+![image](https://github.com/saikiran76/BookusNow/assets/80874246/79c0c96e-3f47-4034-ae94-9ff4ea95ec65)## Project Overview
 This is a Frontend Task @GyanGrove. This is a Event website that shows upcoming and recommended events. This is mobile responsive. And the events are fetched from the given API.
+
+## Tech stack
+1) I harnsess the capability of React for its fast pacing, diff algorithm (Reconcilation) for fast renders, and Modularity of code. So the primary choice is ReactJS
+2) Used webpack bundler for optimized differential bundling of JS files, tree-shaking, and Consistent hashing
+3) Used Redux for effective and optimized state management
+4) Used tailwind for faster build process and advantageous styling that it provides
+
+
+![image](https://github.com/saikiran76/BookusNow/assets/80874246/aeb346bf-17ad-4c93-8be6-c2b0a2545a8b)
+![image](https://github.com/saikiran76/BookusNow/assets/80874246/753619d0-54da-4e69-9eba-62c156412066)
+
 
 ## A Glimpse at the Project 
 
