@@ -15,7 +15,7 @@ const Upcoming = () => {
       setLoading(true);
  
       try {
-        const response = await fetch(UPCOMING_API);
+        const response = await fetch("https://gg-backend-assignment.azurewebsites.net/api/Events?code=FOX643kbHEAkyPbdd8nwNLkekHcL4z0hzWBGCd64Ur7mAzFuRCHeyQ==&page=1&type=upcoming");
         const data = await response.json();
     
         setUpcoming(prevItems => [...prevItems, ...data.events]);
