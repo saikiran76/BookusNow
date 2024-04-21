@@ -43,7 +43,7 @@ This is a Frontend Task @GyanGrove. This is a Event website that shows upcoming 
    Build the project using Webpack to generate the necessary bundled files. Run
    `npm start`
 5) Access the application:
-    Once the development server is running, open your web browser and navigate to `http://localhost:8080` (or a different port if specified) to access the React application.
+    Once the development server is running, open your web browser and navigate to `http://localhost:3000` (or a different port if specified) to access the React application.
 
 ## Design and Technical Decisions
 1. The UI is designed in a way that it can be viewed on both desktop and mobile devices, ensuring maximum user accessibility. This responsiveness
