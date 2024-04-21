@@ -32,7 +32,7 @@ This is a Frontend Task @GyanGrove. This is a Event website that shows upcoming 
 ## Local setup
 1) Clone the repository:
     Clone the project repository to your local machine using Git. For example:
-    `git clone [<repository-url>](https://github.com/saikiran76/BookusNow.git)`
+    `git clone https://github.com/saikiran76/BookusNow.git`
 2) Navigate to the project directory:
     Change your working directory to the root of the cloned project:
     `cd BookusNow`
