@@ -13,7 +13,7 @@ const Recs = () => {
 
     const getRec = async () => {
         try {
-            const data = await fetch(EVENTS_API);
+            const data = await fetch("https://gg-backend-assignment.azurewebsites.net/api/Events?code=FOX643kbHEAkyPbdd8nwNLkekHcL4z0hzWBGCd64Ur7mAzFuRCHeyQ==&page=1&type=upcoming");
             const json = await data.json();
             dispatch(addRecommendations(json.events));
         } catch (error) {
